@@ -2665,7 +2665,7 @@ a.sg-header-theme-btn-2:hover, button.sg-header-theme-btn-2:hover {
   color: var(--clr-common-black);
 }
 .has-sg-footer-after {
-  height: 426px;
+  height: 435px;
   width: 1px;
   background-color: var(--clr-bg-gray-3);
 }
@@ -2690,11 +2690,11 @@ a.sg-header-theme-btn-2:hover, button.sg-header-theme-btn-2:hover {
 .sg-footer-widget-1 .has-sg-footer-after {
   position: absolute;
   right: 44px;
-  top: -54%;
+  top: -55%;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .sg-footer-widget-1 .has-sg-footer-after {
-    top: -47%;
+    top: -56%;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {

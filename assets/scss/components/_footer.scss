@@ -40,7 +40,7 @@
         }
         @at-root {
             .has-sg-footer-after {
-                height: 426px;
+                height: 435px;
                 width: 1px;
                 background-color: var(--clr-bg-gray-3);
                 &::after {
@@ -62,9 +62,9 @@
             & .has-sg-footer-after {
                 position: absolute;
                 right: 44px;
-                top: -54%;
+                top: -55%;
                 @media #{$xl} {
-                    top: -47%;
+                    top: -56%;
                 }
                 @media #{$lg, $md, $xs} {
                     display: none;
