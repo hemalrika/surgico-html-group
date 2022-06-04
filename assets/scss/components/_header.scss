@@ -477,7 +477,7 @@ a.sg-header, button.sg-header {
     }
     & .sg-header-nav-2 ul li {
         @media #{$xl} {
-            margin-right: 32px;
+            margin-right: 28px;
         }
     }
     .sg-header-action-links a:not(:first-child) {
@@ -599,4 +599,9 @@ a.sg-header, button.sg-header {
 }
 .sg-sidebar-menu-popup-1 .sg-theme-radius-btn {
 	margin-right: 10px;
+}
+
+
+.sg-header-theme-btn-2.no-after:hover {
+    color: var(--clr-commo-white);
 }

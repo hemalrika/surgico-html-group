@@ -11,13 +11,12 @@
     min-height: 100vh;
     display: flex;
     align-items: center;
-    padding: 50px 0;
     @media #{$lg, $md, $xs} {
         padding: 30px 0;
     }
 }
 .sg-signin-img-bg {
-    position: fixed;
+    position: absolute;
     left: 0;
     top: 0;
     width: 44.4%;
